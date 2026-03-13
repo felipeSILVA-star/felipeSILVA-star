@@ -5,9 +5,9 @@
 Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar soluções criativas através do código. Atualmente construindo minha base sólida em desenvolvimento de software e sempre em busca de aprender novas tecnologias!
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em **[nome do meu TCC: athlemap - ele é um app para esportes]**
+- 🔭 Atualmente trabalhando em **[athlemap - ele é um app para esportes]**
 - 🌱 Atualmente aprendendo **[ java, script, Python, Banco de Dados, etc.]**
-- 💬 Me pergunte sobre **HTML,python, java, script e Lógica de Programação**
+- 💬 Me pergunte sobre **[HTML,python, java, script e Lógica de Programação]**
 - 📫 Como me encontrar: [meu email. e telefone: felipesilv132645@gmail.com - 13996641042]
 - ⚡ Curiosidade: **[ Comecei a programar aos 16 anos / Amo jogar futebol nas horas vagas]**
 
