@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou o [felipe siva] 👋
+# Olá, mundo! Eu sou o felipe silva 👋
 
 🎓 **Estudante do 3º ano do Ensino Médio | Técnico em Desenvolvimento de Sistemas**
 
